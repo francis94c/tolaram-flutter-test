@@ -1,6 +1,6 @@
 # Flutter Test
 
-Build a Flutter application that meets the following requirements:
+Build a Flutter application that meet the following requirements:
 
 1. The application should display a map with a marker on the location of the user.
 2. When the user moves, the marker should move __SMOOTHLY__ with the user's location.
